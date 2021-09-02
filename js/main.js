@@ -14,7 +14,8 @@ const myWork = [
       'src': "images/8stFront.jpg",
       'comment': ""
     }
-  },
+  }
+{/*
   {
     'title': "302 W 8 st",
     'href': "https://example.com",
@@ -63,8 +64,9 @@ const myWork = [
       'desc': "",
       'src': "images/417Living3.jpg",
       'comment': `"None" Place holder`
-   }
+   	}
 	}
+*/}
 ];
 
 
