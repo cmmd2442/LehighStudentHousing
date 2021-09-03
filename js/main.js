@@ -15,7 +15,7 @@ const myWork = [
       'comment': ""
     }
   }
-{/*
+/*
   {
     'title': "302 W 8 st",
     'href': "https://example.com",
@@ -66,7 +66,7 @@ const myWork = [
       'comment': `"None" Place holder`
    	}
 	}
-*/}
+*/
 ];
 
 
